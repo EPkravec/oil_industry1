@@ -1,0 +1,6 @@
+keyboard==0.13.5
+linecache2==1.0.0
+pymodbus==2.5.2
+pyserial==3.5
+six==1.16.0
+traceback2==1.4.0
